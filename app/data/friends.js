@@ -1,3 +1,4 @@
+// A static friends list array of objects to push each new user to
 var friendsList = [
 
 {
@@ -16,5 +17,5 @@ var friendsList = [
 }
 
 ];
-
+// Export this array to be used on other files
 module.exports = friendsList;
