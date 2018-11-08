@@ -2,7 +2,7 @@
 A full-stack application that acts as a compatibility-based friend finder.
 
 ## Deployment
-The application is deployed to Heroku: https://jl-friendfinder.herokuapp.com
+The application is deployed to Heroku: https://intense-garden-90922.herokuapp.com/
 
 There may be a small delay when you first try to access the application due to the web dyno going to sleep if it receives no traffic for 30 minutes.
 
